@@ -6,10 +6,10 @@ In order to have the chassis working properly, you should run the servers listed
 
 ## Eureka server
 Run Eureka server, for service discovery.
-You can download one (here)[https://github.com/stanislavgrujic/eureka-server].
+You can download one [here](https://github.com/stanislavgrujic/eureka-server).
 
 ## Zipkin server
 Run Zipkin server, for distributed tracing.
-In order to run server with Eureka enabled discovery client, refer (here)[https://github.com/stanislavgrujic/zipkin-server].
+In order to run server with Eureka enabled discovery client, refer [here](https://github.com/stanislavgrujic/zipkin-server).
 
 
