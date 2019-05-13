@@ -11,7 +11,6 @@ public class PongService {
   private PongClient client;
 
   public PongService(PongClient client) {
-//    this.client = Feign.builder().decoder(new StringDecoder()).target(PongClient.class, "http://pong-service:8090");
     this.client = client;
   }
 
