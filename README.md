@@ -10,12 +10,12 @@ Run it with `mvn spring-boot:run` in console, or from your IDE.
 
 ## Eureka server
 Run Eureka server, for service discovery.
-You can download one (here)[https://github.com/stanislavgrujic/eureka-server].
+You can download one [here](https://github.com/stanislavgrujic/eureka-server).
 Run it with `mvn spring-boot:run` in console, or from your IDE.
 
 ## Zipkin server
 Run Zipkin server, for distributed tracing.
-In order to run server with Eureka enabled discovery client, refer (here)[https://github.com/stanislavgrujic/zipkin-server].
+In order to run server with Eureka enabled discovery client, refer [here](https://github.com/stanislavgrujic/zipkin-server).
 
 ## Pong application
 Download it from (here)[https://github.com/stanislavgrujic/pong-application].
