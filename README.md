@@ -13,6 +13,11 @@ Run Eureka server, for service discovery.
 You can download one [here](https://github.com/stanislavgrujic/eureka-server).
 Run it with `mvn spring-boot:run` in console, or from your IDE.
 
+## Spring Boot Admin Server
+Run Spring Boot Admin Server, for service monitoring.
+You can download one [here](https://github.com/stanislavgrujic/spring-boot-admin-server).
+Run it with `mvn spring-boot:run` in console, or from your IDE.
+
 ## Zipkin server
 Run Zipkin server, for distributed tracing.
 In order to run server with Eureka enabled discovery client, refer [here](https://github.com/stanislavgrujic/zipkin-server).
